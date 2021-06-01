@@ -6,3 +6,11 @@
 ~~Cebu, Phillipines~~
 
 ~~Tallin, Estonia~~
+
+~~Kathmandu, Nepal~~
+
+~~Miami, FL~~
+
+~~Vancouver, BC~~
+
+~~Seattle, WA~~
