@@ -14,3 +14,7 @@
 ~~Vancouver, BC~~
 
 ~~Seattle, WA~~
+
+~~Bucharest, Romania~~
+
+~~Portland, OR~~
